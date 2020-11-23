@@ -19,9 +19,10 @@
 
 **Languages and Tools:** 
 
+<img width="55%" style="margin: 20px 0;" align="right" alt="Loxt's github stats" src="https://github-readme-stats.vercel.app/api?username=loxt&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img width="55%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxt&langs_count=5&theme=tokyonight" />
+
 <p>
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=loxt&show_icons=true&hide_border=true&count_private=true" />
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
