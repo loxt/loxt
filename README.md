@@ -11,9 +11,8 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://i.pinimg.com/564x/f3/07/99/f30799524fb2d22e96a3079fa7d25739.jpg" />
 
-- 👨🏽‍💻 I’m currently working on a own project (Skay);
+- 👨🏽‍💻 I’m currently working on a own project (Devanced);
 - 🌱 I’m currently learning NestJS, Angular and Go; 
-- 🤔 I suck at frontend 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: emannuelloxt@hotmail.com
 
