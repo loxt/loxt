@@ -8,5 +8,3 @@
   ![Snake animation](https://github.com/loxt/loxt/blob/main/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=loxt&repo=loxt&theme=react)](https://github.com/loxt/loxt)
